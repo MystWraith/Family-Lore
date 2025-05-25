@@ -2,6 +2,6 @@
 tags:
   - quote
 progenetor:
-  - Nate Bargatzi
+  - Nate Bargatze
 year:
 ---
