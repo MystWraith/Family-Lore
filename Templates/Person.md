@@ -1,0 +1,6 @@
+---
+parents: 
+siblings: 
+spouse: 
+birth:
+---
