@@ -11,6 +11,8 @@ Based on the real philosophy of [Cosmic Ordering](https://en.wikipedia.org/wiki/
 
 This is included in the Lore Book because of Amanda's former step-brother-in-law, Troy. He participates in a pyramid scheme that shares similar themes and ideas as space star ordering.
 
+When saying "threw it over my shoulder, into space!" We gesture over our shoulder for emphasis.
+
 Some scenes are referenced nearly verbatim. These include:
 * Buying a helicopter
 * Drawing a tattoo of a helicopter
