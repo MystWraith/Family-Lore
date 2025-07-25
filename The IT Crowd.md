@@ -9,7 +9,7 @@ The IT Crowd is a British comedy show. It is about two men in IT solutions and t
 
 Some quotes include:
 - I'm disabled (Leg disabled)
-- [[Space Star Ordering]]
+- [Space Star Ordering](Space%20Star%20Ordering.md)
 - Are you a gay man?
 - Did you see that ludicrous display last night?
 - Did you turn it off and on again? (General IT joke)
