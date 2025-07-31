@@ -1,8 +1,6 @@
 ---
 tags:
-  - quote
-  - action
-progenetor: 
+  - show
 year:
 ---
 The IT Crowd is a British comedy show. It is about two men in IT solutions and their manager who does not know IT, but her boss is ignorant and so she made it in on a fluke. It contains witty and awkward humor.
@@ -15,3 +13,4 @@ Some quotes include:
 - Did you turn it off and on again? (General IT joke)
 - A fire at sea parks
 - I feel so social
+- Peter File
