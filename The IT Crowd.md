@@ -1,7 +1,8 @@
 ---
 tags:
   - show
-year:
+start: 2006-02-03
+end: 2013-09-27
 ---
 The IT Crowd is a British comedy show. It is about two men in IT solutions and their manager who does not know IT, but her boss is ignorant and so she made it in on a fluke. It contains witty and awkward humor.
 

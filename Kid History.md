@@ -1,7 +1,6 @@
 ---
 tags:
   - quote
-year:
 ---
 This is a collection of quotes, all of which originated from a YouTube series known as Kid History. The premise is that some siblings told stories from when they were younger to their little kids. Then they asked for their kids to retell the story. Finally, they acted out and recorded the retellings with their children's voices dubbed over their own.
 
