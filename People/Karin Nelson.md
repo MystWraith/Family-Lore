@@ -6,6 +6,6 @@ siblings:
   - "[[Megan Nelson]]"
   - "[[JP Nelson]]"
   - "[[Grace Nelson]]"
-spouse: 
+spouse: "[[Tim]]"
 birth: 2000-10-05
 ---

@@ -1,9 +1,9 @@
 ---
 tags:
-  - action
+  - quote
 progenetor:
   - Tobuscus
-year:
+year: 2012
 ---
 [Video](https://youtu.be/jQ7DBG3ISRY?si=eCE9CPhFPpiyk5qC)
 
