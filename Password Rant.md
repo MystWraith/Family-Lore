@@ -5,7 +5,7 @@ progenetor:
   - Tobuscus
 year: 2012
 ---
-[Video](https://youtu.be/jQ7DBG3ISRY?si=eCE9CPhFPpiyk5qC)
+![Password Rant](https://youtu.be/jQ7DBG3ISRY?si=eCE9CPhFPpiyk5qC)
 
 These quotes are:
 - Are you human? I don't know anymore, because I can't pass the human test. Are those human letters?
